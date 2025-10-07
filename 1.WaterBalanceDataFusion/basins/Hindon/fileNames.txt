@@ -1,0 +1,9 @@
+PObs1	minP.txt
+PObs2	maxP.txt
+PStd	ErrorP.txt 
+EStd	ErrorE.txt
+EObs1	minET.txt
+EObs2	maxET.txt
+SObs	graceMAS.txt
+QObs	runoff.txt
+IObs	waterImports.txt
