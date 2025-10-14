@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17348192.svg)](http://doi.org/10.5281/zenodo.17348192)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17348274.svg)](http://doi.org/10.5281/zenodo.17348274)
 # Water Balance Data Fusion Extensions
 * generatePandEvariance folder contains the following tools:
   * `MaternEvapV.ipynb`: to generate the evaporation variance timeseries using grid-scale standard deviations and correlation matrix derived using Matérn kernel implemented within a stochastic variational Gaussian Process
